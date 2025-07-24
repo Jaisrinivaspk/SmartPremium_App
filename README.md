@@ -98,7 +98,7 @@ streamlit run app.py
 ---
 ##  Contact
  
- - **Jaisrinivas P K**
+ - **[Jaisrinivas P K](mailto:jaisrinivasece2020@gmail.com)**
  - **[GitHub Profile](https://github.com/Jaisrinivaspk)**
 
 ---
